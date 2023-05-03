@@ -2,3 +2,4 @@ Hey, This is the second file craeted on GitHub.com for demonstration purspose.
 Hello adding line 2 from GITHUB!
 Hi, this is for GitHub Desktop testing.
 Adding 4th line on GitHub for github desktop check.
+Adding text to check git fetch and then finally pull.
